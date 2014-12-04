@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Burke Software Community Documentation
+pages:
+    - [index.md, Home]
+    - [specs.md, Writing Specifications]
+theme: readthedocs
